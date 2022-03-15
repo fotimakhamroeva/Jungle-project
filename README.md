@@ -2,6 +2,32 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+![""](docs/ss1.png)
+
+![""](docs/ss2.png)
+
+![""](docs/ss3.png)
+
+![""](docs/ss4.png)
+
+![""](docs/ss5.png)
+
+![""](docs/ss6.png)
+
+## Features of Jungle
+
+### Authentication
+Signup & Login
+
+### Admin Privileges
+Admins can add/edit/delete products and categories and see dashboard.
+
+### Product Selection
+Users can browse and add products to cart and filter by category.
+
+### Checkout
+Users can purchase from cart and see the details of their order.
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
